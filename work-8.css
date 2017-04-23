@@ -1,0 +1,35 @@
+.title1{
+	font-family: '黑体';
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+}
+.title2{
+	font-family: '宋体';
+	font-size: 12px;
+	text-align: center;
+	color: #999999
+}
+.text1{
+	font-family: '宋体';
+	font-size: 16px;
+	font-weight: bold;
+	text-indent: 2em;
+	line-height: 1.5em;
+}
+.title3{
+	font-family: '宋体';
+	font-weight: bold;
+	line-height: 0px;
+	font-size: 14px;
+	color: rgb(0,0,100);
+}
+.a1{
+	font-family: '宋体';
+	text-decoration: none;
+	line-height: 1.5em;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgb(0,50,150);
+}
